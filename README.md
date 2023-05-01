@@ -4,7 +4,7 @@ This is the repository of:
 
 **Student ID** : 20048494
 
-**Module :** Digital Systems 
+**Module :** UFCFXK-30-3 Digital Systems 
 
 
 **The project code is in:**
