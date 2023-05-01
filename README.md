@@ -1,10 +1,13 @@
-This is the repository of :
-Author : Abdurafay Shahzad Choudhry
-Student ID : 20048494
-Module : Digital Systems 
+This is the repository of:
+
+**Author** : Abdurafay Shahzad Choudhry
+
+**Student ID** : 20048494
+
+**Module :** Digital Systems 
 
 
-The project code is in:
+**The project code is in:**
 FinalYearCODE.ipynb
 
 
