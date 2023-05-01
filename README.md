@@ -10,7 +10,5 @@ This is the repository of:
 **The project code is in:**
 FinalYearCODE.ipynb
 
-
-However the dataset used for this model is larger than 100MBs, which limits the ability to post the zip files here and also has been modified from the original dataset, which support the reason of not getting uploaded here.
-
-Dataset available on request
+Dataset to use for this project:
+[There are 2 folders 'data' and 'testing](https://uweacuk-my.sharepoint.com/:f:/r/personal/abdurafay2_choudhry_live_uwe_ac_uk/Documents/Dataset%20to%20use?csf=1&web=1&e=fpCnHn)
