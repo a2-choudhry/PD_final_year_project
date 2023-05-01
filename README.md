@@ -25,11 +25,12 @@ Instructions:
   (Digital_systems_project_20048494/data/HC_chunks) and (Digital_systems_project_20048494/data/PD_chunks)
 
 
-  Digital_systems_project_20048494/testing --> that holds HC and PD.
+ ** Digital_systems_project_20048494/testing** --> that holds HC and PD.
   (Digital_systems_project_20048494/testing/HC) and (Digital_systems_project_20048494/testing/PD)
+
 
   **Note**: Ignore the HC file (Digital_systems_project_20048494/testing/HC) and focus on PD file (Digital_systems_project_20048494/testing/PD) since all the data has been shited to PD file for testing.
 
-2. Just import these 3 files and the code shall work properly.
+
 
 If accessing the datasets imposes issues, the datasets will be available on request.
