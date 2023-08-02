@@ -1,11 +1,7 @@
 This is the repository of:
 
 **Author** : Abdurafay Shahzad Choudhry
-
-**Student ID** : 20048494
-
-**Module :** UFCFXK-30-3 Digital Systems 
-
+**Grade obtained** : First Class
 
 **The project code is in:**
 
@@ -38,5 +34,3 @@ Datasets to use for this project:
 2. Files greater than 50 MB cannot be uploaded here, therefore refer the OneDrive link and download from there.
 
 
-
-If accessing the datasets imposes issues, the datasets will be available on request.
