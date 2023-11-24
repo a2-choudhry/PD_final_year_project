@@ -2,8 +2,6 @@ This is the repository of:
 
 **Author** : Abdurafay Shahzad Choudhry
 
-**Grade obtained** : First Class
-
 **The project code is in:**
 
 Digital_systems_project_20048494/ FinalYearCODE.ipynb
